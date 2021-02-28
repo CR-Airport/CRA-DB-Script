@@ -1,0 +1,32 @@
+[
+    {
+        "english": "Bring your customs form back",
+        "spanish": "en español",
+        "filePath": "@drawable/a30",
+        "level": 1
+    },
+    {
+        "english": "Come this way",
+        "spanish": "en español",
+        "filePath": "@drawable/a31",
+        "level": 1
+    },
+    {
+        "english": "Complete your form completely",
+        "spanish": "en español",
+        "filePath": "@drawable/a32",
+        "level": 1
+    },
+    {
+        "english": "Complete your form",
+        "spanish": "en español",
+        "filePath": "@drawable/a33a",
+        "level": 1
+    },
+    {
+        "english": "Follow me",
+        "spanish": "en español",
+        "filePath": "@drawable/a34a",
+        "level": 1
+    }
+]

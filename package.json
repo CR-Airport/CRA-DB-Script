@@ -1,0 +1,24 @@
+{
+  "name": "cornucopia-script",
+  "version": "1.0.0",
+  "description": "Restaurants and Foods DB insert tasks",
+  "main": "index.js",
+  "scripts": {
+    "yum": "npx gulp yum"
+  },
+  "author": "Alex Yeung",
+  "license": "ISC",
+  "dependencies": {
+    "guid-typescript": "^1.0.9",
+    "gulp": "^4.0.2",
+    "minimist": "^1.2.5",
+    "moment": "^2.29.1",
+    "room-populate": "^1.0.10",
+    "sqlite3": "^5.0.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  },
+  "devDependencies": {
+    "@types/minimist": "^1.2.1"
+  }
+}
