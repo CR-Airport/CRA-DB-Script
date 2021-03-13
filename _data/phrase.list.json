@@ -1,32 +1,805 @@
-[
-    {
-        "english": "Bring your customs form back",
-        "spanish": "en español",
-        "filePath": "@drawable/a30",
-        "level": 1
-    },
-    {
-        "english": "Come this way",
-        "spanish": "en español",
-        "filePath": "@drawable/a31",
-        "level": 1
-    },
-    {
-        "english": "Complete your form completely",
-        "spanish": "en español",
-        "filePath": "@drawable/a32",
-        "level": 1
-    },
-    {
-        "english": "Complete your form",
-        "spanish": "en español",
-        "filePath": "@drawable/a33a",
-        "level": 1
-    },
-    {
-        "english": "Follow me",
-        "spanish": "en español",
-        "filePath": "@drawable/a34a",
-        "level": 1
-    }
+[{
+    "english": "Bring your customs form back",
+    "spanish": "en español",
+    "filePath": "@drawable/a30",
+    "level": 1
+},
+{
+    "english": "Come this way",
+    "spanish": "en español",
+    "filePath": "@drawable/a31",
+    "level": 1
+},
+{
+    "english": "Complete your form completely",
+    "spanish": "en español",
+    "filePath": "@drawable/a32",
+    "level": 1
+},
+{
+    "english": "Complete your form",
+    "spanish": "en español",
+    "filePath": "@drawable/a33a",
+    "level": 1
+},
+{
+    "english": "Follow me",
+    "spanish": "en español",
+    "filePath": "@drawable/a34a",
+    "level": 1
+},
+{
+    "english": "Follow the signs",
+    "spanish": "en español",
+    "filePath": "@drawable/a34b",
+    "level": 1
+},
+{
+    "english": "Go past the scanner",
+    "spanish": "en español",
+    "filePath": "@drawable/a35",
+    "level": 1
+},
+{
+    "english": "Have your customs form and passport ready",
+    "spanish": "en español",
+    "filePath": "@drawable/a36",
+    "level": 1
+},
+{
+    "english": "Lay your bag flat on the table",
+    "spanish": "en español",
+    "filePath": "@drawable/a37",
+    "level": 1
+},
+{
+    "english": "Open your bag",
+    "spanish": "en español",
+    "filePath": "@drawable/a38",
+    "level": 1
+},
+{
+    "english": "Proceed to the next scanner",
+    "spanish": "en español",
+    "filePath": "@drawable/a39",
+    "level": 1
+},
+{
+    "english": "Put the bag on the scale",
+    "spanish": "en español",
+    "filePath": "@drawable/a40",
+    "level": 1
+},
+{
+    "english": "Put your purse on the belt",
+    "spanish": "en español",
+    "filePath": "@drawable/a41",
+    "level": 1
+},
+{
+    "english": "Put your backpack on the belt",
+    "spanish": "en español",
+    "filePath": "@drawable/a42",
+    "level": 1
+},
+{
+    "english": "Put your bags separately",
+    "spanish": "en español",
+    "filePath": "@drawable/a43",
+    "level": 1
+},
+{
+    "english": "Put your bags through the scanner",
+    "spanish": "en español",
+    "filePath": "@drawable/a44",
+    "level": 1
+},
+{
+    "english": "Put your carry-on on the belt",
+    "spanish": "en español",
+    "filePath": "@drawable/a45",
+    "level": 1
+},
+{
+    "english": "Step out of the line",
+    "spanish": "en español",
+    "filePath": "@drawable/a46",
+    "level": 1
+},
+{
+    "english": "Step to the side",
+    "spanish": "en español",
+    "filePath": "@drawable/a47",
+    "level": 1
+},
+{
+    "english": "Complete the family name space",
+    "spanish": "en español",
+    "filePath": "@drawable/a48",
+    "level": 1
+},
+{
+    "english": "Complete the flight number space",
+    "spanish": "en español",
+    "filePath": "@drawable/a49",
+    "level": 1
+},
+{
+    "english": "Complete the nationality space",
+    "spanish": "en español",
+    "filePath": "@drawable/a50",
+    "level": 1
+},
+{
+    "english": "Complete the description space",
+    "spanish": "en español",
+    "filePath": "@drawable/a51",
+    "level": 1
+},
+{
+    "english": "Check the days-outside-of-the-country box",
+    "spanish": "en español",
+    "filePath": "@drawable/a52a",
+    "level": 1
+},
+{
+    "english": "Check the duty-free box",
+    "spanish": "en español",
+    "filePath": "@drawable/a53",
+    "level": 1
+},
+{
+    "english": "Sign and date your form",
+    "spanish": "en español",
+    "filePath": "@drawable/a54",
+    "level": 1
+},
+{
+    "english": "Keep your distance",
+    "spanish": "en español",
+    "filePath": "@drawable/a55",
+    "level": 1
+},
+{
+    "english": "Wait in the marked areas",
+    "spanish": "en español",
+    "filePath": "@drawable/a56",
+    "level": 1
+},
+{
+    "english": "List the items and their value",
+    "spanish": "en español",
+    "filePath": "@drawable/a57",
+    "level": 1
+},
+{
+    "english": "You have to call the warehouse",
+    "spanish": "en español",
+    "filePath": "@drawable/a58",
+    "level": 2
+},
+{
+    "english": "You have to visit the warehouse",
+    "spanish": "en español",
+    "filePath": "@drawable/a59",
+    "level": 2
+},
+{
+    "english": "You have to ask a customs broker",
+    "spanish": "en español",
+    "filePath": "@drawable/a60",
+    "level": 2
+},
+{
+    "english": "You have to ask the warehouse staff",
+    "spanish": "en español",
+    "filePath": "@drawable/a61",
+    "level": 2
+},
+{
+    "english": "You have to pay duty",
+    "spanish": "en español",
+    "filePath": "@drawable/a62",
+    "level": 2
+},
+{
+    "english": "You have to hire a customs broker",
+    "spanish": "en español",
+    "filePath": "@drawable/a63",
+    "level": 2
+},
+{
+    "english": "You have to pay the taxes",
+    "spanish": "en español",
+    "filePath": "@drawable/a64",
+    "level": 2
+},
+{
+    "english": "You need to call the warehouse",
+    "spanish": "en español",
+    "filePath": "@drawable/a65",
+    "level": 2
+},
+{
+    "english": "You need to visit the warehouse",
+    "spanish": "en español",
+    "filePath": "@drawable/a66",
+    "level": 2
+},
+{
+    "english": "You need to ask a customs broker",
+    "spanish": "en español",
+    "filePath": "@drawable/a67",
+    "level": 2
+},
+{
+    "english": "You need to ask the warehouse staff",
+    "spanish": "en español",
+    "filePath": "@drawable/a68",
+    "level": 2
+},
+{
+    "english": "You need to pay duty",
+    "spanish": "en español",
+    "filePath": "@drawable/a69",
+    "level": 2
+},
+{
+    "english": "You need to hire a customs broker",
+    "spanish": "en español",
+    "filePath": "@drawable/a70",
+    "level": 2
+},
+{
+    "english": "You need to pay the taxes",
+    "spanish": "en español",
+    "filePath": "@drawable/a71",
+    "level": 2
+},
+{
+    "english": "Are you bringing a firearm?",
+    "spanish": "en español",
+    "filePath": "@drawable/a72",
+    "level": 3
+},
+{
+    "english": "Do you have a firearm?",
+    "spanish": "en español",
+    "filePath": "@drawable/a73",
+    "level": 3
+},
+{
+    "english": "Are you bringing any auto parts?",
+    "spanish": "en español",
+    "filePath": "@drawable/a74",
+    "level": 3
+},
+{
+    "english": "Are you arriving with a group?",
+    "spanish": "en español",
+    "filePath": "@drawable/a75",
+    "level": 3
+},
+{
+    "english": "Are you traveling alone?",
+    "spanish": "en español",
+    "filePath": "@drawable/a76",
+    "level": 3
+},
+{
+    "english": "Do you have a prescription?",
+    "spanish": "en español",
+    "filePath": "@drawable/a77",
+    "level": 3
+},
+{
+    "english": "Do you have a receipt or invoice?",
+    "spanish": "en español",
+    "filePath": "@drawable/a78",
+    "level": 3
+},
+{
+    "english": "Do you have anything to declare?",
+    "spanish": "en español",
+    "filePath": "@drawable/a79",
+    "level": 3
+},
+{
+    "english": "Do you have anything to identify yourself?",
+    "spanish": "en español",
+    "filePath": "@drawable/a80",
+    "level": 3
+},
+{
+    "english": "Do you have the paperwork for these?",
+    "spanish": "en español",
+    "filePath": "@drawable/a81",
+    "level": 3
+},
+{
+    "english": "Do you have the paperwork for this?",
+    "spanish": "en español",
+    "filePath": "@drawable/a82",
+    "level": 3
+},
+{
+    "english": "Is this staying in Costa Rica?",
+    "spanish": "en español",
+    "filePath": "@drawable/a83",
+    "level": 3
+},
+{
+    "english": "Are these staying in Costa Rica?",
+    "spanish": "en español",
+    "filePath": "@drawable/a84",
+    "level": 3
+},
+{
+    "english": "Are these for personal use?",
+    "spanish": "en español",
+    "filePath": "@drawable/a85",
+    "level": 3
+},
+{
+    "english": "Is this for personal use?",
+    "spanish": "en español",
+    "filePath": "@drawable/a86",
+    "level": 3
+},
+{
+    "english": "Are you a resident?",
+    "spanish": "en español",
+    "filePath": "@drawable/a87",
+    "level": 3
+},
+{
+    "english": "Is this for commercial use?",
+    "spanish": "en español",
+    "filePath": "@drawable/a88",
+    "level": 3
+},
+{
+    "english": "Are these for commercial use?",
+    "spanish": "en español",
+    "filePath": "@drawable/a89",
+    "level": 3
+},
+{
+    "english": "Do I have to put my purse on the belt?",
+    "spanish": "en español",
+    "filePath": "@drawable/a90",
+    "level": 3
+},
+{
+    "english": "Do I have to put my backpack on the belt?",
+    "spanish": "en español",
+    "filePath": "@drawable/a91",
+    "level": 3
+},
+{
+    "english": "Do we both need a customs form?",
+    "spanish": "en español",
+    "filePath": "@drawable/a92",
+    "level": 3
+},
+{
+    "english": "Do you have a pen?",
+    "spanish": "en español",
+    "filePath": "@drawable/a93",
+    "level": 3
+},
+{
+    "english": "Do you have a customs form?",
+    "spanish": "en español",
+    "filePath": "@drawable/a94",
+    "level": 3
+},
+{
+    "english": "Do I have to take the liquids out?",
+    "spanish": "en español",
+    "filePath": "@drawable/a95",
+    "level": 3
+},
+{
+    "english": "Do I pay taxes here?",
+    "spanish": "en español",
+    "filePath": "@drawable/a96",
+    "level": 3
+},
+{
+    "english": "Do I have to pay any additional fees?",
+    "spanish": "en español",
+    "filePath": "@drawable/a97",
+    "level": 3
+},
+{
+    "english": "What is this item?",
+    "spanish": "en español",
+    "filePath": "@drawable/a112",
+    "level": 4
+},
+{
+    "english": "What are these items?",
+    "spanish": "en español",
+    "filePath": "@drawable/a113",
+    "level": 4
+},
+{
+    "english": "How long are you staying in Costa Rica?",
+    "spanish": "en español",
+    "filePath": "@drawable/a114",
+    "level": 4
+},
+{
+    "english": "What is the purpose of your visit?",
+    "spanish": "en español",
+    "filePath": "@drawable/a115",
+    "level": 4
+},
+{
+    "english": "Where will you be staying?",
+    "spanish": "en español",
+    "filePath": "@drawable/a116",
+    "level": 4
+},
+{
+    "english": "What is in these boxes?",
+    "spanish": "en español",
+    "filePath": "@drawable/a117",
+    "level": 4
+},
+{
+    "english": "What is in this box?",
+    "spanish": "en español",
+    "filePath": "@drawable/a118",
+    "level": 4
+},
+{
+    "english": "Why do you have two bikes?",
+    "spanish": "en español",
+    "filePath": "@drawable/a119",
+    "level": 4
+},
+{
+    "english": "Why do you have two laptops?",
+    "spanish": "en español",
+    "filePath": "@drawable/a120",
+    "level": 4
+},
+{
+    "english": "What is the value of that bike?",
+    "spanish": "en español",
+    "filePath": "@drawable/a121",
+    "level": 4
+},
+{
+    "english": "What is the value of that laptop?",
+    "spanish": "en español",
+    "filePath": "@drawable/a122",
+    "level": 4
+},
+{
+    "english": "What are these items used for?",
+    "spanish": "en español",
+    "filePath": "@drawable/a123",
+    "level": 4
+},
+{
+    "english": "What is this item used for?",
+    "spanish": "en español",
+    "filePath": "@drawable/a124",
+    "level": 4
+},
+{
+    "english": "How many are these?",
+    "spanish": "en español",
+    "filePath": "@drawable/a125",
+    "level": 4
+},
+{
+    "english": "How many are there?",
+    "spanish": "en español",
+    "filePath": "@drawable/a126",
+    "level": 4
+},
+{
+    "english": "What is the value of these items?",
+    "spanish": "en español",
+    "filePath": "@drawable/a127",
+    "level": 4
+},
+{
+    "english": "What is the value of this item?",
+    "spanish": "en español",
+    "filePath": "@drawable/a128",
+    "level": 4
+},
+{
+    "english": "What is your flight number?",
+    "spanish": "en español",
+    "filePath": "@drawable/a129",
+    "level": 4
+},
+{
+    "english": "How long is it going to take?",
+    "spanish": "en español",
+    "filePath": "@drawable/a130",
+    "level": 4
+},
+{
+    "english": "Where do I have to pay duty?",
+    "spanish": "en español",
+    "filePath": "@drawable/a131",
+    "level": 4
+},
+{
+    "english": "Where is the exit?",
+    "spanish": "en español",
+    "filePath": "@drawable/a132",
+    "level": 4
+},
+{
+    "english": "Where are the taxis?",
+    "spanish": "en español",
+    "filePath": "@drawable/a133",
+    "level": 4
+},
+{
+    "english": "Where is the bathroom? ",
+    "spanish": "en español",
+    "filePath": "@drawable/a134",
+    "level": 4
+},
+{
+    "english": "Where is the domestic terminal?",
+    "spanish": "en español",
+    "filePath": "@drawable/a135",
+    "level": 4
+},
+{
+    "english": "Where do I meet my tour guide?",
+    "spanish": "en español",
+    "filePath": "@drawable/a136",
+    "level": 4
+},
+{
+    "english": "Where is the car rental counter?",
+    "spanish": "en español",
+    "filePath": "@drawable/a137",
+    "level": 4
+},
+{
+    "english": "Where can I get a customs form?",
+    "spanish": "en español",
+    "filePath": "@drawable/a138",
+    "level": 4
+},
+{
+    "english": "What is the warehouse’s phone number?",
+    "spanish": "en español",
+    "filePath": "@drawable/a139",
+    "level": 4
+},
+{
+    "english": "Where is the warehouse located?",
+    "spanish": "en español",
+    "filePath": "@drawable/a140",
+    "level": 4
+},
+{
+    "english": "Near the baggage claim area",
+    "spanish": "en español",
+    "filePath": "@drawable/a144g",
+    "level": 4
+},
+{
+    "english": "This exceeds the quantity for a personal exemption",
+    "spanish": "en español",
+    "filePath": "@drawable/a154",
+    "level": 5
+},
+{
+    "english": "This exceeds the value for a personal exemption",
+    "spanish": "en español",
+    "filePath": "@drawable/a155",
+    "level": 5
+},
+{
+    "english": "It takes a few days",
+    "spanish": "en español",
+    "filePath": "@drawable/a156",
+    "level": 5
+},
+{
+    "english": "This merchandise exceeds the quantity for a personal exemption",
+    "spanish": "en español",
+    "filePath": "@drawable/a157",
+    "level": 5
+},
+{
+    "english": "You may call DHL, UPS, FEDEX or any authorized broker at your convenience",
+    "spanish": "en español",
+    "filePath": "@drawable/a160",
+    "level": 5
+},
+{
+    "english": "The warehouse is outside of the airport",
+    "spanish": "en español",
+    "filePath": "@drawable/a161",
+    "level": 5
+},
+{
+    "english": "This is not the line for declaration",
+    "spanish": "en español",
+    "filePath": "@drawable/a162",
+    "level": 5
+},
+{
+    "english": "This is not considered for personal use",
+    "spanish": "en español",
+    "filePath": "@drawable/a163a",
+    "level": 5
+},
+{
+    "english": "These are not considered for personal use",
+    "spanish": "en español",
+    "filePath": "@drawable/a163b",
+    "level": 5
+},
+{
+    "english": "I can stamp your passport for a personal exemption",
+    "spanish": "en español",
+    "filePath": "@drawable/a163c",
+    "level": 5
+},
+{
+    "english": "I have to confiscate this gun",
+    "spanish": "en español",
+    "filePath": "@drawable/a167",
+    "level": 5
+},
+{
+    "english": "I have to weigh this item",
+    "spanish": "en español",
+    "filePath": "@drawable/a168",
+    "level": 5
+},
+{
+    "english": "I have to weigh these items",
+    "spanish": "en español",
+    "filePath": "@drawable/a169",
+    "level": 5
+},
+{
+    "english": "I have to check these bags",
+    "spanish": "en español",
+    "filePath": "@drawable/a170",
+    "level": 5
+},
+{
+    "english": "I have to check this bag",
+    "spanish": "en español",
+    "filePath": "@drawable/a171",
+    "level": 5
+},
+{
+    "english": "I have to inspect the contents of that bag",
+    "spanish": "en español",
+    "filePath": "@drawable/a172",
+    "level": 5
+},
+{
+    "english": "I have to see the contents of that bag",
+    "spanish": "en español",
+    "filePath": "@drawable/a173",
+    "level": 5
+},
+{
+    "english": "I have to inspect the contents of those bags",
+    "spanish": "en español",
+    "filePath": "@drawable/a174",
+    "level": 5
+},
+{
+    "english": "I have to see the contents of those bags",
+    "spanish": "en español",
+    "filePath": "@drawable/a175",
+    "level": 5
+},
+{
+    "english": "I have to see your customs form and passport",
+    "spanish": "en español",
+    "filePath": "@drawable/a176",
+    "level": 5
+},
+{
+    "english": "I have to retain your merchandise",
+    "spanish": "en español",
+    "filePath": "@drawable/a177",
+    "level": 5
+},
+{
+    "english": "I have to speak with my manager",
+    "spanish": "en español",
+    "filePath": "@drawable/a178",
+    "level": 5
+},
+{
+    "english": "I need to confiscate this gun",
+    "spanish": "en español",
+    "filePath": "@drawable/a179",
+    "level": 5
+},
+{
+    "english": "I need to weigh this item",
+    "spanish": "en español",
+    "filePath": "@drawable/a180",
+    "level": 5
+},
+{
+    "english": "I need to weigh these items",
+    "spanish": "en español",
+    "filePath": "@drawable/a181",
+    "level": 5
+},
+{
+    "english": "I need to check these bags",
+    "spanish": "en español",
+    "filePath": "@drawable/a182",
+    "level": 5
+},
+{
+    "english": "I need to check this bag",
+    "spanish": "en español",
+    "filePath": "@drawable/a183",
+    "level": 5
+},
+{
+    "english": "I need to inspect the contents of that bag",
+    "spanish": "en español",
+    "filePath": "@drawable/a184",
+    "level": 5
+},
+{
+    "english": "I need to see the contents of that bag",
+    "spanish": "en español",
+    "filePath": "@drawable/a185",
+    "level": 5
+},
+{
+    "english": "I need to inspect the contents of those bags",
+    "spanish": "en español",
+    "filePath": "@drawable/a186",
+    "level": 5
+},
+{
+    "english": "I need to see the contents of those bags",
+    "spanish": "en español",
+    "filePath": "@drawable/a187",
+    "level": 5
+},
+{
+    "english": "I need to see your customs form and passport",
+    "spanish": "en español",
+    "filePath": "@drawable/a188",
+    "level": 5
+},
+{
+    "english": "I need to retain your merchandise",
+    "spanish": "en español",
+    "filePath": "@drawable/a189",
+    "level": 5
+},
+{
+    "english": "I need to speak with my manager",
+    "spanish": "en español",
+    "filePath": "@drawable/a190",
+    "level": 5
+},
+{
+    "english": "That information is on this card",
+    "spanish": "en español",
+    "filePath": "@drawable/a191",
+    "level": 5
+}
 ]
