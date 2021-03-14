@@ -26,7 +26,7 @@ const PROJ_DIR = "CRA_ANDROID_DIRECTORY_NAME"
 ```
 
 Updating phrases in CRA-Android:
-1. In the #### **`\_data directory`** there are two files: #### **`crPhrases.csv`** and #### **`phrase.list.json`**
+1. In the **`\_data directory`** there are two files: **`crPhrases.csv`** and **`phrase.list.json`**
   - phrase.list.json is what the script uses to update the db but is harder to work with directly, instead edit crPhrases.csv with Excel or other effective tool
 2. After updating crPhrases.csv, run the following command to have the update reflect on phrase.list.json
 ```
