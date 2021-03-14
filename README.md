@@ -20,7 +20,7 @@ $ npm install
 
 Configuration:
 1. If you have the latest version of the CRA-Android/version-2 on your machine, you should only need to change one variable for the script to function as intended 
-2. Open **gulpfile.ts** and locate this line of code (around line 6), and change this variable's value to the name of the directory that has the CRA-Android repo
+2. Open **`gulpfile.ts`** and locate this line of code (around line 6), and change this variable's value to the name of the directory that has the CRA-Android repo
 ```js
 const PROJ_DIR = "CRA_ANDROID_DIRECTORY_NAME"
 ```
